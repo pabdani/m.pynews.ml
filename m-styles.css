@@ -21,6 +21,6 @@ body {
     }
     
     .main {
-    float: left;
+    align: center;
     width: 60%;
     }
